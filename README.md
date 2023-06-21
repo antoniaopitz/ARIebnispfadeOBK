@@ -4,7 +4,9 @@
 
 # ARIebnispfade OBK
 Master P1 Projekt im Sommersemester 2023 <br/>
-Betreuung im Rahmen des WPF's Digitale Kommunikation: Christian Noss und Mario Faske 
+<b>Betreuung</b> im Rahmen des WPF's Digitale Kommunikation: Christian Noss und Mario Faske <br/>
+
+<b>Projektmitglieder</b>: Hazal Karanci, Öznur Karadayi, Antonia Opitz und Sebastian Reichert
 
 ## :information_source: Überblick
 
