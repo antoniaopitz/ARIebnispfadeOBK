@@ -2,7 +2,7 @@
 <img src="https://www.th-koeln.de/img/logo.svg" width="20%">
 </p>
 
-# ARIebnispfadeOBK
+# ARIebnispfade OBK
 Master P1 Projekt im Sommersemester 2023
 
 ## :information_source: Überblick
