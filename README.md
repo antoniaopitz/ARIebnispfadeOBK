@@ -14,8 +14,8 @@ Das Projekt ARIebnispfade OBK zielt darauf ab, ein einzigartiges und interaktive
 
 ## :books: Dokumentation
 + Dokumentation:
-+ Miro Board WPF Digitale Kommunikation
-+ Miro Board P1 Master Gruppe
++ [Miro Board WPF Digitale Kommunikation](https://miro.com/app/board/uXjVPkPqAso=/?share_link_id=643985862096/)
++ [Miro Board P1 Master Gruppe](https://miro.com/app/board/uXjVMUIrZjc=/?share_link_id=612182591342)
 
 ## :man_technologist: Bewertungskriterien
 https://th-koeln.github.io/mi-master-wtw/projekte/ 
