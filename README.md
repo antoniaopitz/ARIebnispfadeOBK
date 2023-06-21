@@ -3,8 +3,8 @@
 </p>
 
 # ARIebnispfade OBK
-Master P1 Projekt im Sommersemester 2023
-Betreuung: Christian Noss und Mario Faske 
+Master P1 Projekt im Sommersemester 2023 <br/>
+Betreuung im Rahmen des WPF's Digitale Kommunikation: Christian Noss und Mario Faske 
 
 ## :information_source: Überblick
 
