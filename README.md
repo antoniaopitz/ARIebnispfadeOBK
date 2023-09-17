@@ -15,7 +15,7 @@ Das Projekt ARIebnispfade OBK zielt darauf ab, ein einzigartiges und interaktive
 ## :bulb: Motivation
 
 ## :books: Dokumentation
-+ [Dokumentation](https://github.com/antoniaopitz/ARIebnispfadeOBK/wiki)
++ [Wiki](https://github.com/antoniaopitz/ARIebnispfadeOBK/wiki)
 + [Miro Board WPF Digitale Kommunikation](https://miro.com/app/board/uXjVPkPqAso=/?share_link_id=643985862096/)
 + [Miro Board P1 Master Gruppe](https://miro.com/app/board/uXjVMUIrZjc=/?share_link_id=612182591342)
 
